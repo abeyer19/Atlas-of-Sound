@@ -1,0 +1,4 @@
+version 1.0.0 - Beta
+    --= 12/25/2025 - 00:00 =--
+        Started on the structure of the project and researching the scraping procedures.
+        
